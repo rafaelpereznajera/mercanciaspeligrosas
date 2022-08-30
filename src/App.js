@@ -27,7 +27,7 @@ function App() {
 
   const newTest = () => {
     setQuestions([]);
-    setTimeout(()=> setQuestions(getTests(data, 20)), 100);
+    setTimeout(()=> setQuestions(getTests(data, 50)), 100);
     // setTimeout(()=> setQuestions(data.slice(0, 3)), 100);
     formRef.current.reset();
     setResult("");
