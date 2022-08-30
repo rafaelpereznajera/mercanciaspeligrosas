@@ -1,5 +1,4 @@
 import React, { useState, useRef } from "react";
-import "./App.css";
 import Fieldset from "./Fieldset";
 var data = require("./output.json");
 
@@ -35,12 +34,26 @@ function App() {
   });
   return (
     <div className="App">
-      <button onClick={newTest}>Nuevo Test</button>
-      <form onSubmit={handleSubmit} ref={formRef}>
+      <h1 className="text-3xl font-bold underline">Mercancias peligrosas</h1>
+      <div className="flex justify-center m-10">
+        <button
+          onClick={newTest}
+          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        >
+          Nuevo Test
+        </button>
+      </div>
+      <form onSubmit={handleSubmit} ref={formRef} className="m-5">
         {tests}
-        <button>submit</button>
+        <div className="flex justify-center m-10">
+          {questions && (
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              Comprobar
+            </button>
+          )}
+        </div>
       </form>
-      <p>Correctas: {result}</p>
+      {result && <p>Correctas: {result}</p>}
     </div>
   );
 }
