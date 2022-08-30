@@ -2,7 +2,7 @@ const fs = require('fs');
 const readline = require('readline');
 
 async function processLineByLine() {
-  const fileStream = fs.createReadStream('PCS1.txt', {encoding: 'latin1'});
+  const fileStream = fs.createReadStream('PCS.txt', {encoding: 'latin1'});
 
   const rl = readline.createInterface({
     input: fileStream,
