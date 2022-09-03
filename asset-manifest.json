@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mercanciaspeligrosas/static/css/main.e77d3f5f.css",
-    "main.js": "/mercanciaspeligrosas/static/js/main.50bc2886.js",
+    "main.css": "/mercanciaspeligrosas/static/css/main.657376f2.css",
+    "main.js": "/mercanciaspeligrosas/static/js/main.929f29f6.js",
     "static/js/787.6b510045.chunk.js": "/mercanciaspeligrosas/static/js/787.6b510045.chunk.js",
     "index.html": "/mercanciaspeligrosas/index.html",
-    "main.e77d3f5f.css.map": "/mercanciaspeligrosas/static/css/main.e77d3f5f.css.map",
-    "main.50bc2886.js.map": "/mercanciaspeligrosas/static/js/main.50bc2886.js.map",
+    "main.657376f2.css.map": "/mercanciaspeligrosas/static/css/main.657376f2.css.map",
+    "main.929f29f6.js.map": "/mercanciaspeligrosas/static/js/main.929f29f6.js.map",
     "787.6b510045.chunk.js.map": "/mercanciaspeligrosas/static/js/787.6b510045.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77d3f5f.css",
-    "static/js/main.50bc2886.js"
+    "static/css/main.657376f2.css",
+    "static/js/main.929f29f6.js"
   ]
 }
