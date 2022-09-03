@@ -23,12 +23,12 @@ function getTests(questions, number) {
 function App() {
   const [questions, setQuestions] = useState([]);
   const [result, setResult] = useState(undefined);
+  const [showAnswer, setShowAnswer] = useState(false);
   const formRef = useRef();
 
-  const newTest = () => {
+  const newTest = (number) => {
     setQuestions([]);
-    setTimeout(()=> setQuestions(getTests(data, 50)), 100);
-    // setTimeout(()=> setQuestions(data.slice(0, 3)), 100);
+    setTimeout(()=> setQuestions(getTests(data, number)), 100);
     formRef.current.reset();
     setResult("");
   };
@@ -50,7 +50,7 @@ function App() {
     setResult(`${correct}/${solved.length}`);
   };
   const tests = questions.map((item) => {
-    return <Fieldset data={item} key={item.identifier}></Fieldset>;
+    return <Fieldset data={item} key={item.identifier} showAnswer={showAnswer}></Fieldset>;
   });
   return (
     <div className="App">
@@ -68,10 +68,22 @@ function App() {
       {result && <p className="flex justify-center font-bold text-3xl mb-20">Correctas: {result}</p>}
       <div className="flex justify-center m-10">
         <button
-          onClick={newTest}
+          onClick={() => {
+            setShowAnswer(false);
+            newTest(50);
+          }}
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
         >
           Nuevo Test
+        </button>
+        <button
+          onClick={() => {
+            setShowAnswer(true);
+            newTest(10);
+          }}
+          className="ml-10 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        >
+          Solo 10
         </button>
       </div>
     </div>

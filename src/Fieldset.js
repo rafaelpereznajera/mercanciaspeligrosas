@@ -1,3 +1,5 @@
+import React, { useState, useRef } from "react";
+
 function Radio({identifier, value, text, answer, userAnswer}) {
   let showBorder = undefined;
   if (userAnswer && answer === value) {
@@ -16,10 +18,14 @@ function Radio({identifier, value, text, answer, userAnswer}) {
 }
 
 function Fieldset({ data, showAnswer = false }) {
-  const { identifier, question, answer, norma, userAnswer } = data;
-  const background = `${userAnswer}` === `${answer}` ? "green" : "red";
+  let { identifier, question, answer, norma, userAnswer } = data;
+  const [stateAnswer, setStateAnswer] = useState();
+  userAnswer = userAnswer || stateAnswer;
   return (
-    <fieldset id={identifier} className="m-4 leading-loose">
+    <fieldset id={identifier} className="m-4 leading-loose" 
+      onChange={(event) => {
+        showAnswer && setStateAnswer(event.target.value)
+      }}>
       <legend className="font-bold mb-5">{question}</legend>
       <Radio identifier={identifier} value={"1"} text={data["1"]} answer={answer} userAnswer={userAnswer}/>
       <Radio identifier={identifier} value={"2"} text={data["2"]} answer={answer} userAnswer={userAnswer}/>
