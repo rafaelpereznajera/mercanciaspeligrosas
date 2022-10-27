@@ -12,36 +12,43 @@ async function processLineByLine() {
   // ('\r\n') in input.txt as a single line break.
 
   let newQuestion;
-  let count = 0;
   let output = [];
+  let type = '';
+
   for await (const line of rl) {
     // Each line in input.txt will be successively available here as `line`.
     // console.log(`Line from file: ${line}`);
     if (line.startsWith('Identificador')) {
-        let count = 0;
+        type = 'Identificador';
         newQuestion = { identifier: line.split(':')[1].trim()};
         continue;
     }
     if (line.startsWith('Enunciado:')) {
+        type = 'Enunciado:';
         continue;
     }
     if (line.startsWith('1.-')) {
+        type = '1.-';
         newQuestion[1] = line.split('1.-')[1].trim();
         continue;
     }
     if (line.startsWith('2.-')) {
+        type = '2.-';
         newQuestion[2] = line.split('2.-')[1].trim();
         continue;
     }
     if (line.startsWith('3.-')) {
+        type = '3.-';
         newQuestion[3] = line.split('3.-')[1].trim();
         continue;
     }
     if (line.startsWith('4.-')) {
+        type = '4.-';
         newQuestion[4] = line.split('4.-')[1].trim();
         continue;
     }
     if (line.startsWith('Respuesta')) {
+        type = 'Respuesta';
         newQuestion.answer = line.split(':')[1].trim();
         continue;
     }
@@ -50,8 +57,20 @@ async function processLineByLine() {
         output.push(newQuestion);
         continue;
     }
-    if (line !== '') {
-        newQuestion.question = line.trim();
+    if (type === '1.-') {
+        newQuestion[1] = (newQuestion[1] || '') + ' ' + line.trim();
+    }
+    if (type === '2.-') {
+        newQuestion[2] = (newQuestion[2] || '') + ' ' +  line.trim();
+    }
+    if (type === '3.-') {
+        newQuestion[3] = (newQuestion[3] || '') + ' ' +  line.trim();
+    }
+    if (type === '4.-') {
+        newQuestion[4] = (newQuestion[4] || '') + ' ' +  line.trim();
+    }
+    if (type === 'Enunciado:') {
+        newQuestion.question = (newQuestion.question || '') + line.trim();
     }
     
   }

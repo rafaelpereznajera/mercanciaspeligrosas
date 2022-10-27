@@ -2765,7 +2765,7 @@
     "3": "Una relación de las carreteras incluidas en la red de intenerarios para mercancías peligrosas (RIMP) con las rutas a seguir.",
     "4": "Una relación de almacenes de mercancías donde se puedan realizar las pausas y descansos.",
     "identifier": "314",
-    "question": "protocolo de emergencia en el deberá figurar?",
+    "question": "¿En los transportes de explosivos se debe llevar a bordo  unprotocolo de emergencia en el deberá figurar?",
     "answer": "1",
     "norma": "Real Decreto 130/2017 Articulo 157b"
   },
@@ -5091,11 +5091,11 @@
   },
   {
     "1": "Dos calzos por vehículo.",
-    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo",
+    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo y el diámetro de las ruedas;",
     "3": "Dos señales de advertencia autoportantes.",
     "4": "B Y C son correctas.",
     "identifier": "4132",
-    "question": "y el diámetro de las ruedas;",
+    "question": "Toda unidad de transporte, debe llevar a bordo:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
@@ -5135,7 +5135,7 @@
     "3": "Evitar fuentes de ignición, en particular, no fumar ni usar cigarrillos electrónicos .",
     "4": "A y C son ciertas.",
     "identifier": "4140",
-    "question": "la tripulación del vehículo llevarán a cabo las siguientes acciones:",
+    "question": "En caso de accidente o emergencia que puede producirse o surgir durante el transporte, los miembros dela tripulación del vehículo llevarán a cabo las siguientes acciones:",
     "answer": "4",
     "norma": "ADR 5.4.3."
   },
@@ -5145,7 +5145,7 @@
     "3": "Solamente cuando descarguemos.",
     "4": "Durante el transporte.",
     "identifier": "4141",
-    "question": "compartimentos de carga de vehículos EX/II y EXIII que transporte materias y objetos de la clase 1?",
+    "question": "¿Durante el transporte, se deberán cerrar las puertas y los paneles rígidos de loscompartimentos de carga de vehículos EX/II y EXIII que transporte materias y objetos de la clase 1?",
     "answer": "2",
     "norma": "ADR 8.5 S1 (7)"
   },
@@ -5241,11 +5241,11 @@
   },
   {
     "1": "Materias o mezclas de materias destinadas a producir exclusivamente un efecto calorífico y luminoso.",
-    "2": "Materias o mezclas de materias destinadas a producir un efecto",
+    "2": "Materias o mezclas de materias destinadas a producir un efecto calorífico, únicamente.",
     "3": "Materias o mezclas de materias destinadas a producir solo un efecto sonoro.",
-    "4": "Materias o mezclas de materias destinadas a producir un efecto",
+    "4": "Materias o mezclas de materias destinadas a producir un efecto calorífico, luminoso, sonoro, gaseoso o fumígeno.",
     "identifier": "4164",
-    "question": "calorífico, luminoso, sonoro, gaseoso o fumígeno.",
+    "question": "¿Qué son materias pirotécnicas?:",
     "answer": "4",
     "norma": "ADR 2.2.1.1"
   },
@@ -5505,7 +5505,7 @@
     "3": "Hasta el final de su periodo de validez de cinco años.",
     "4": "Hasta 31 de diciembre 2014.",
     "identifier": "4213",
-    "question": "2012, ¿podrán continuar utilizándose?",
+    "question": "Los certificados de formación para los conductores conforme al ADR 2009, emitidos hasta el 31 de diciembre de2012, ¿podrán continuar utilizándose?",
     "answer": "3",
     "norma": "ADR 1.6.1.21"
   },
@@ -5580,12 +5580,12 @@
     "norma": "ROTT Artículo 199.8.4"
   },
   {
-    "1": "a la instrucción de",
-    "2": "a la instrucción de",
-    "3": "a la instrucción de",
-    "4": "a la instrucción de",
+    "1": "a la instrucción de embalaje apropiada indicada en la columna (9) de la tabla A del capítulo 3.2 y descrita en 4.1.4.",
+    "2": "a la instrucción de embalaje apropiada",
+    "3": "a la instrucción de embalaje apropiada indicada en la columna (8) de la tabla A del capítulo 3.2 y descrita en 4.1.4.",
+    "4": "a la instrucción de embalaje apropiada indicada en la columna (7) de la tabla A del capítulo 3.2 y descrita en 4.1.4.",
     "identifier": "6330",
-    "question": "embalaje apropiada indicada en la columna (7) de la tabla A del capítulo 3.2 y descrita en 4.1.4.",
+    "question": "Las mercancías de la clase 1 deberán ser envasadas y embaladas conforme",
     "answer": "3",
     "norma": "ADR 4.1.5.4"
   },
@@ -6010,12 +6010,12 @@
     "norma": "ADR 8.2.1.4"
   },
   {
-    "1": "deberá confirmar",
-    "2": "deberá confirmar",
+    "1": "deberá confirmar esta asignación",
+    "2": "deberá confirmar esta asignación por escrito al solicitante.",
     "3": "Deberá superar pruebas y ensayos",
     "4": "Deberá superar pruebas y ensayos del Manual de pruebas y criterios",
     "identifier": "6373",
-    "question": "esta asignación por escrito al solicitante.",
+    "question": "La autoridad competente que asigne un objeto o una materia a la clase 1 ",
     "answer": "2",
     "norma": "ADR 2.2.1.1.9.1"
   },
@@ -6045,7 +6045,7 @@
     "3": "0 kg",
     "4": "20 kg",
     "identifier": "6376",
-    "question": "de las materias y objetos del UN 0456 transportadas en un vehículo exceda de",
+    "question": "Las disposiciones del capítulo 8.4 solamente son aplicables cuando la masa neta totalde las materias y objetos del UN 0456 transportadas en un vehículo exceda de",
     "answer": "3",
     "norma": "ADR 8.5 S1 (6)"
   },
@@ -6310,12 +6310,12 @@
     "norma": "ADR 2.2.1.1.5"
   },
   {
-    "1": "deben satisfacer",
-    "2": "deben satisfacer",
+    "1": "deben satisfacer las disposiciones aplicables a materias de peligrosidad media (grupo de embalaje II)",
+    "2": "deben satisfacer las disposiciones aplicables a materias de peligrosidad media (grupo de embalaje I)",
     "3": "deben satisfacer las disposiciones aplicables a materias de peligrosidad media (grupo de embalaje III)",
     "4": "Debe cumplir con la parte 6 del ADR",
     "identifier": "6403",
-    "question": "las disposiciones aplicables a materias de peligrosidad media (grupo de embalaje I)",
+    "question": "los envases/embalajes,incluyendo los GRG/IBC y los grandes embalajes, utilizados para mercancías de la clase 1.",
     "answer": "1",
     "norma": "ADR 4.1.1.18"
   },
@@ -6782,10 +6782,10 @@
   {
     "1": "No",
     "2": "Sí",
-    "3": "Sí, si la autoridad competente lo",
+    "3": "Sí, si la autoridad competente lo considera necesario",
     "4": "Nunca",
     "identifier": "6450",
-    "question": "considera necesario",
+    "question": "¿Debe figurar la fecha de expiración del documento de clasificación?",
     "answer": "3",
     "norma": "ADR 2.2.1.1.9.4"
   },
@@ -6922,10 +6922,10 @@
   {
     "1": "La autoridad competente deberá autorizar la operación de transporte en su territorio",
     "2": "Los explosivos embalados deberán ser transportados en compartimentos",
-    "3": "Ninguna otra mercancía peligrosa puede transportarse en el mismo compartimento de",
+    "3": "Ninguna otra mercancía peligrosa puede transportarse en el mismo compartimento de los explosivos embalado",
     "4": "Todas son correctas.",
     "identifier": "6464",
-    "question": "los explosivos embalado",
+    "question": "El transporte de explosivos en MEMU solo se permitirá si se cumple:",
     "answer": "4",
     "norma": "ADR 7.5.5.2.3"
   },
@@ -7010,12 +7010,12 @@
     "norma": "ADR 8.5 S1 (2)"
   },
   {
-    "1": "Objetos que contengan una materia explosiva o",
-    "2": "Objetos que contengan una o varias materias explosivas o",
-    "3": "Objetos que contengan varias materias explosivas o",
+    "1": "Objetos que contengan una materia explosiva o pirotécnica",
+    "2": "Objetos que contengan una o varias materias explosivas o pirotécnicas",
+    "3": "Objetos que contengan varias materias explosivas o pirotécnicas",
     "4": "Objetos que explotan",
     "identifier": "6473",
-    "question": "pirotécnicas",
+    "question": "¿Cómo se definen los objetos explosivos?",
     "answer": "2",
     "norma": "ADR 2.2.1.1.1"
   },
@@ -7281,11 +7281,11 @@
   },
   {
     "1": "Peligro inherentes a las materias y objetos explosivos y pirotécnicos",
-    "2": "Disposiciones particulares relativas al cargamento en común de materias y objetos de la",
+    "2": "Disposiciones particulares relativas al cargamento en común de materias y objetos de la clase 1. ",
     "3": "A y B son correctas.",
     "4": "Disposiciones particulares relativas a la clase 1.",
     "identifier": "6500",
-    "question": "clase 1.",
+    "question": "El curso de especialización para el transporte de materias y objetos de la clase 1, deberá incluir al menos",
     "answer": "3",
     "norma": "ADR 8.2.2.3.4"
   },
@@ -7330,12 +7330,12 @@
     "norma": "ADR 5.3.1.1.2 y 5.2.2.2.2"
   },
   {
-    "1": "Podrá tener cualquier",
-    "2": "Podrá tener cualquier",
-    "3": "Tiene un formato y puede constar de más de una página, a condición de que estas estén numeradas",
-    "4": "Podrá tener cualquier",
+    "1": "Podrá tener cualquier forma y consta de una página.",
+    "2": "Podrá tener cualquier forma y constar de más de una página, a condición de que estas estén numeradas consecutivamente, e llevar un solo y mismo número de referencia.",
+    "3": "Tiene un formato y puede constar de más de una página, a condición de que estas estén numeradas consecutivamente, e llevar un solo y mismo número de referencia.",
+    "4": "Podrá tener cualquier forma y consta de una página o varias",
     "identifier": "6505",
-    "question": "forma y consta de una página o varias",
+    "question": "El documento de clasificación emitido por la autoridad competente:",
     "answer": "2",
     "norma": "ADR 2.2.1.1.9.2"
   },
@@ -7931,11 +7931,11 @@
   },
   {
     "1": "se deberán cerrar las puertas",
-    "2": "se deberán cerrar los paneles rígidos de los",
-    "3": "se deberá cerrar toda abertura de los compartimentos de",
+    "2": "se deberán cerrar los paneles rígidos de los compartimentos de carga de vehículos EX/II",
+    "3": "se deberá cerrar toda abertura de los compartimentos de carga de vehículos EX/III que transporten materias y objetos de clase 1",
     "4": "Todas son correctas.",
     "identifier": "6565",
-    "question": "carga de vehículos EX/III que transporten materias y objetos de clase 1",
+    "question": "Excepto en losperíodos de carga y descarga, durante un transporte de materias explosivas",
     "answer": "4",
     "norma": "ADR 8.5 S1 (7)"
   },
@@ -8770,12 +8770,12 @@
     "norma": "ADR 8.2.1.4.2"
   },
   {
-    "1": "Materias y objetos que sólo presentan un pequeño peligro de explosión en",
+    "1": "Materias y objetos que sólo presentan un pequeño peligro de explosión en caso de ignición o cebado durante el transporte.",
     "2": "Tener riesgo de explosión en masa, afectando de forma prácticamente instantánea a la totalidad de la carga.",
     "3": "Tener peligro limitado a la explosión de un objeto único",
     "4": "Carecer de peligro de explosión.",
     "identifier": "6649",
-    "question": "caso de ignición o cebado durante el transporte.",
+    "question": "La División 1.4 se caracteriza por...",
     "answer": "1",
     "norma": "ADR 2.2.1.1.5"
   },
@@ -8925,7 +8925,7 @@
     "3": "Mantenerse dentro del vehículo hasta que vengan los servicios de emergencias.",
     "4": "Intentar apagar el incendio con los medios de extinción en el compartimento de carga.",
     "identifier": "6664",
-    "question": "la tripulación del vehículo llevarán a cabo las siguientes acciones:",
+    "question": "En caso de accidente o emergencia que se produzca durante el transporte, los miembros dela tripulación del vehículo llevarán a cabo las siguientes acciones:",
     "answer": "2",
     "norma": "ADR 5.4.3"
   },
@@ -9100,22 +9100,22 @@
     "norma": "ADR 5.2.2.2.1.1.2"
   },
   {
-    "1": "protejan las materias y objetos explosivos, sin permitir que se derramen y que puedan",
+    "1": "protejan las materias y objetos explosivos, sin permitir que se derramen y que puedan causar una agravación del riesgo de encendido o iniciación intempestivos",
     "2": "el bulto completo pueda ser manipulado con toda seguridad en condiciones normales de transporte",
-    "3": "los bultos puedan soportar cualquier carga aplicada con ocasión del apilamiento previsible a",
+    "3": "los bultos puedan soportar cualquier carga aplicada con ocasión del apilamiento previsible a que puedan ser sometidos durante el transporte",
     "4": "Todas son correctas",
     "identifier": "6682",
-    "question": "que puedan ser sometidos durante el transporte",
+    "question": "Todos los envases y embalajes para mercancías de la clase 1 deberán estar diseñados yconstruidos de modo que.",
     "answer": "4",
     "norma": "ADR 4.1.5.2"
   },
   {
-    "1": "Vehículo EX/II o",
+    "1": "Vehículo EX/II o Vehículo EX/III",
     "2": "Vehículo EX/II",
     "3": "Vehículo EX/III",
     "4": "Todas son incorrectas.",
     "identifier": "6683",
-    "question": "Vehículo EX/III",
+    "question": "Un vehículo destinado al transporte de materias u objetos explosivos (clase 1) se denomina",
     "answer": "1",
     "norma": "ADR 9.1.1.2"
   },
@@ -9130,12 +9130,12 @@
     "norma": "Real Decreto 97/2014 Artículo 3 g)"
   },
   {
-    "1": "en virtud de los resultados de las pruebas",
-    "2": "en virtud de los resultados de las pruebas",
+    "1": "en virtud de los resultados de las pruebas y la definición de esta clase con la aprobación de la autoridad de una Parte contratante del ADR",
+    "2": "en virtud de los resultados de las pruebas y la definición de esta clase con la aprobación de la autoridad de una Parte no contratante del ADR",
     "3": "Con la aprobación de la autoridad competente",
     "4": "Con la aprobación de la dirección general de transportes",
     "identifier": "6685",
-    "question": "ADR",
+    "question": "Un objeto o materia puede ser excluido de la clase 1",
     "answer": "1",
     "norma": "ADR2.2.1.1.8.1"
   },
@@ -9402,10 +9402,10 @@
   {
     "1": "Otro conductor",
     "2": "Personal auxiliar",
-    "3": "A cargo del",
+    "3": "A cargo del transportista, la presencia de un acompañante a bordo del vehículo",
     "4": "Todas son ciertas.",
     "identifier": "6712",
-    "question": "transportista, la presencia de un acompañante a bordo del vehículo",
+    "question": "Para el transporte de materias y objetos explosivos (clase 1), la autoridad competente de un país Parte contratante del ADR podrá exigir",
     "answer": "3",
     "norma": "ADR 8.5 S1"
   },
@@ -9775,7 +9775,7 @@
     "3": "K",
     "4": "G",
     "identifier": "6749",
-    "question": "contenga a la vez una materia explosiva y una composición iluminante?",
+    "question": "¿A qué grupo de compatibilidad pertenece el objeto quecontenga a la vez una materia explosiva y una composición iluminante?",
     "answer": "4",
     "norma": "ADR 2.2.1.1.6"
   },
@@ -9785,7 +9785,7 @@
     "3": "1.1G",
     "4": "1.3G",
     "identifier": "6750",
-    "question": "detonante?",
+    "question": "¿A qué división y grupo de embalaje pertenecen  los voladores con sólo efectos de composicióndetonante?",
     "answer": "3",
     "norma": "ADR 2.2.1.1.7.5 Tabla"
   },
@@ -9961,11 +9961,11 @@
   },
   {
     "1": "1+6.1",
-    "2": "1",
+    "2": "1 +6.1 +8",
     "3": "1",
     "4": "1+8",
     "identifier": "6768",
-    "question": "+8",
+    "question": "¿Qué etiquetas de peligro lleva el UN 0018 MUNICIONES LACRIMÓGENAS con carga dispersora, carga expulsora o carga propulsora?",
     "answer": "2",
     "norma": "ADR 3.2.1 Tabla A Columna 5"
   },
@@ -10061,11 +10061,11 @@
   },
   {
     "1": "Objetos pirotécnicos de utilización superficial",
-    "2": "Objetos que contienen materias pirotécnicas, de utilización superficial, para iluminar,",
+    "2": "Objetos que contienen materias pirotécnicas, de utilización superficial, para iluminar, identificar, señalizar o avisar",
     "3": "Objetos que contienen materias pirotécnicas",
     "4": "Objetos que contienen materias explosivas",
     "identifier": "6778",
-    "question": "identificar, señalizar o avisar",
+    "question": "¿Qué son bengalas de superficie?",
     "answer": "2",
     "norma": "ADR 2.2.1.4"
   },
@@ -10081,21 +10081,21 @@
   },
   {
     "1": "Las materias que por sí mismas no sean materias explosivas.",
-    "2": "Son materias de la",
-    "3": "Materias o mezclas de materias destinadas a producir un efecto",
-    "4": "Las materias explosivas",
+    "2": "Son materias de la clase 3.",
+    "3": "Materias o mezclas de materias destinadas a producir un efecto calorífico, luminoso, sonoro, gaseoso o fumígeno.",
+    "4": "Las materias explosivas humectadas en agua o alcohol.",
     "identifier": "6780",
-    "question": "humectadas en agua o alcohol.",
+    "question": "¿Qué son las materias pirotécnicas?",
     "answer": "3",
     "norma": "ADR 2.2.1.1"
   },
   {
     "1": "Objetos constituidos por un cebo de ignición",
-    "2": "Objetos constituidos por un cebo de ignición y una carga auxiliar deflagrante (como pólvora",
+    "2": "Objetos constituidos por un cebo de ignición y una carga auxiliar deflagrante (como pólvora negra), utilizados para el encendido de la carga de proyección contenida en una vaina",
     "3": "Objetos constituidos por un cebo de ignición y una carga auxiliar deflagrante",
     "4": "Objetos que contienen materias explosivas",
     "identifier": "6781",
-    "question": "negra), utilizados para el encendido de la carga de proyección contenida en una vaina",
+    "question": "¿Qué son los cebos tubulares?",
     "answer": "2",
     "norma": "ADR 2.2.1.4"
   },
@@ -10340,10 +10340,10 @@
     "norma": "ADR 2.2.1.4"
   },
   {
-    "1": "Materia constituida por un explosivo líquido deflagrante, utilizada para la propulsión.",
-    "2": "Materia constituida por un explosivo líquido",
-    "3": "Materia constituida por un explosivo sólido deflagrante, utilizada para la propulsión.",
-    "4": "Materia constituida por un explosivo",
+    "1": "Materia constituida por un explosivo líquido deflagrante, utilizada para la propulsión. ",
+    "2": "Materia constituida por un explosivo líquido ",
+    "3": "Materia constituida por un explosivo sólido deflagrante, utilizada para la propulsión. ",
+    "4": "Materia constituida por un explosivo ",
     "identifier": "6806",
     "question": "¿Qué es un propulsante líquido?",
     "answer": "1",
@@ -10835,7 +10835,7 @@
     "3": "Los datos relativos al destinatario.",
     "4": "Teléfono de contacto del gerente de la empresa.",
     "identifier": "6855",
-    "question": "protocolo de emergencia en el que figurará?",
+    "question": "¿En los transportes de explosivos se debe llevar a bordo  unprotocolo de emergencia en el que figurará?",
     "answer": "1",
     "norma": "Real Decreto 130/2017 Articulo 157a"
   },
@@ -16661,11 +16661,11 @@
   },
   {
     "1": "Dos calzos por vehículo.",
-    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo",
+    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo y el diámetro de las ruedas;",
     "3": "Dos señales de advertencia autoportantes.",
     "4": "B Y C son correctas.",
     "identifier": "4218",
-    "question": "y el diámetro de las ruedas;",
+    "question": "Toda unidad de transporte, debe llevar a bordo:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
@@ -16843,9 +16843,9 @@
     "1": "Un gas que se encuentra disuelto en un disolvente.",
     "2": "Un gas que se encuentra parcialmente en estado líquido por su baja temperatura",
     "3": "Un gas que, envasado para su transporte, se encuentra adsorbido en un material poroso sólido.",
-    "4": "Un gas que, cuando se embala a presión para su transporte, es enteramente",
+    "4": "Un gas que, cuando se embala a presión para su transporte, es enteramente gaseoso a -50 ºC.",
     "identifier": "4253",
-    "question": "gaseoso a -50 ºC.",
+    "question": "¿Qué es un gas adsorbido?",
     "answer": "3",
     "norma": "ADR 2.2.2.1.2"
   },
@@ -16932,20 +16932,20 @@
   {
     "1": "Debe responder a los criterios de alguna de las clases del ADR.",
     "2": "No debe responder a los criterios del ADR",
-    "3": "No debe responder a los criterios de ninguna de las clases",
-    "4": "Debe ser compatible con la botella y formar",
+    "3": "No debe responder a los criterios de ninguna de las clases del ADR.",
+    "4": "Debe ser compatible con la botella y formar compuestos nocivos o peligrosos.",
     "identifier": "4272",
-    "question": "compuestos nocivos o peligrosos.",
+    "question": "El material adsorbente",
     "answer": "3",
     "norma": "ADR 4.1.4.1 P208"
   },
   {
-    "1": "Dispositivos de",
-    "2": "Dispositivos de",
-    "3": "Dispositivos de",
-    "4": "Dispositivos de",
+    "1": "Dispositivos de ventilación.",
+    "2": "Dispositivos de descompresión.",
+    "3": "Dispositivos de aireación.",
+    "4": "Dispositivos de respiración.",
     "identifier": "4274",
-    "question": "respiración.",
+    "question": "Las botellas y válvulas de los gases adsorbidos tóxicos no deberán estar provistas de:",
     "answer": "2",
     "norma": "ADR 4.1.4.1 P208"
   },
@@ -19812,7 +19812,7 @@
   {
     "1": "No es necesario marcar dichos vehículos.",
     "2": "Las puertas de carga de estos vehículos o contenedores se marcarán con la placa etiqueta de la clase 2.",
-    "3": "Las puertas de carga de estos vehículos o contenedores se marcarán: ATENCIÓN SIN VENTILACIÓN ABRIR CON CUIDADO",
+    "3": "Las puertas de carga de estos vehículos o contenedores se marcarán: ATENCIÓN SIN VENTILACIÓN ABRIR CON CUIDADO ",
     "4": "Sólo se marcarán cuando hagan un trayecto de más de 50 kilómetros.",
     "identifier": "5930",
     "question": "¿Cómo deben ir marcados los vehículos cubiertos o contenedores cerrados que transporten bultos con gases?",
@@ -22372,7 +22372,7 @@
   {
     "1": "Deberán ser descubiertos o ventilados.",
     "2": "Si se cargan en otros vehículos cubiertos, se impedirá el intercambio de gases entre el compartimento de carga y la cabina del conductor.",
-    "3": "Las puertas de carga de estos vehículos o contenedores se marcarán: ATENCIÓN SIN VENTILACIÓN ABRIR CON CUIDADO",
+    "3": "Las puertas de carga de estos vehículos o contenedores se marcarán: ATENCIÓN SIN VENTILACIÓN ABRIR CON CUIDADO ",
     "4": "Todas las anteriores",
     "identifier": "6186",
     "question": "Preferiblemente los vehículos que transporten bultos de UN 2187 DIÓXIDO DE CARBONO LÍQUIDO REFRIGERADO .",
@@ -23192,10 +23192,10 @@
   {
     "1": "Un gas que, envasado para su transporte, se encuentra adsorbido en un material poroso sólido.",
     "2": "Un gas que, cuando se embala a presión para su transporte, es enteramente gaseoso a -50 ºC.",
-    "3": "Un gas que, cuando se embala a presión para su transporte, se encuentra disuelto en un disolvente",
+    "3": "Un gas que, cuando se embala a presión para su transporte, se encuentra disuelto en un disolvente en fase líquida.",
     "4": "Un gas que se encuentra disuelto en un disolvente.",
     "identifier": "6268",
-    "question": "en fase líquida.",
+    "question": "¿Qué es un gas disuelto?",
     "answer": "3",
     "norma": "ADR 2.2.2.1.2"
   },
@@ -32855,7 +32855,7 @@
     "3": "Mantenerse dentro del vehículo hasta que vengas los servcios de emergencias.",
     "4": "Intentar apagar el incendio con los medios de extinción en el compartimento de carga.",
     "identifier": "4296",
-    "question": "la tripulación del vehículo llevarán a cabo las siguientes acciones:",
+    "question": "En caso de accidente o emergencia que puede producirse o surgir durante el transporte, los miembros dela tripulación del vehículo llevarán a cabo las siguientes acciones:",
     "answer": "2",
     "norma": "ADR 5.4.3"
   },
@@ -32865,7 +32865,7 @@
     "3": "Solamente cuando descarguemos.",
     "4": "Unicamente durante la carga.",
     "identifier": "4300",
-    "question": "compartimentos de carga de vehículos ?",
+    "question": "¿Durante el transporte, se deberán cerrar las puertas y los paneles rígidos de loscompartimentos de carga de vehículos ?",
     "answer": "2",
     "norma": "ADR 8.5 S1 (7)"
   },
@@ -38655,7 +38655,7 @@
     "3": "Avisar al expedidor.",
     "4": "Todas las respuestas anteriores son correctas.",
     "identifier": "7543",
-    "question": "la tripulación del vehículo no llevarán a cabo las siguientes acciones:",
+    "question": "Si se produce un accidente de UN 1202 GASOLEO, los miembros dela tripulación del vehículo no llevarán a cabo las siguientes acciones:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
@@ -38665,7 +38665,7 @@
     "3": "Avisar al expedidor.",
     "4": "Todas las respuestas anteriores son correctas.",
     "identifier": "7544",
-    "question": "la tripulación del vehículo no llevarán a cabo las siguientes acciones:",
+    "question": "Si se produce un accidente de UN 1203 GASOLINA, los miembros dela tripulación del vehículo no llevarán a cabo las siguientes acciones:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
@@ -38675,17 +38675,17 @@
     "3": "Dejar conectada la batería del vehículo implicado.",
     "4": "Todas las respuestas anteriores son correctas.",
     "identifier": "7545",
-    "question": "la tripulación del vehículo no llevarán a cabo las siguientes acciones:",
+    "question": "Si se produce un accidentes de UN 1223 QUEROSENO, los miembros dela tripulación del vehículo no llevarán a cabo las siguientes acciones:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
   {
     "1": "Máscara de evacuación de emergencia.",
-    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo",
+    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo y el diámetro de las ruedas;",
     "3": "Una pala.",
     "4": "Un chaleco o ropa fluorescente.",
     "identifier": "7546",
-    "question": "y el diámetro de las ruedas;",
+    "question": "Toda unidad de transporte como equipación adicional para la clase 3, debe llevar a bordo:",
     "answer": "3",
     "norma": "ADR 5.4.3"
   },
@@ -43340,7 +43340,7 @@
     "norma": "ADR 5.3.2.2.1"
   },
   {
-    "1": "Flechas negras o rojas sobre un fondo de color blanco o de otro color que ofrezca suficiente contraste.",
+    "1": "Flechas negras o rojas sobre un fondo de color blanco o de otro color que ofrezca suficiente contraste. ",
     "2": "Flechas negras sobre fondo blanco u otro color resaltado.",
     "3": "Flechas y fondo de colores que resalten.",
     "4": "No se especifica el color de las flechas y el fondo, sólo se indica que resalten con el color del bulto.",
@@ -54631,11 +54631,11 @@
   },
   {
     "1": "Dos calzos por vehículo.",
-    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo",
+    "2": "Un calzo por vehículo, de dimensiones apropiadas para la masa máxima del vehículo y el diámetro de las ruedas;",
     "3": "Dos señales de advertencia autoportantes.",
     "4": "B Y C son correctas.",
     "identifier": "4371",
-    "question": "y el diámetro de las ruedas;",
+    "question": "Toda unidad de transporte, debe llevar a bordo:",
     "answer": "4",
     "norma": "ADR 5.4.3"
   },
@@ -54795,7 +54795,7 @@
     "3": "Leve.",
     "4": "Sólo es falta si se produce un vertido.",
     "identifier": "4399",
-    "question": "trate?",
+    "question": "¿Qué tipo de infracción es la consistente en utilizar envases o embalajes no homologados para el transporte de la mercancía de que setrate?",
     "answer": "1",
     "norma": "Ley 9/2013 Artículo Primero Punto 77 (140.15.18)"
   },
@@ -55125,7 +55125,7 @@
     "3": "Deberán transportarse en contenedores para granel adaptados de tal forma que las mercancías no puedan entrar en contacto con la madera o con otros materiales combustibles",
     "4": "Su transporte a granel no está permitido.",
     "identifier": "4446",
-    "question": "desechados, vacíos sin limpiar con residuos de la clase 5.1 si se  transportan a granel,",
+    "question": "Los envases o embalajesdesechados, vacíos sin limpiar con residuos de la clase 5.1 si se  transportan a granel,",
     "answer": "3",
     "norma": "ADR 7.3.2.9.1"
   },
@@ -55290,12 +55290,12 @@
     "norma": "ADR 6.5.1.4.1"
   },
   {
-    "1": "un GRG/IBC compuesto de un cuerpo de madera, rígido o plegable,",
+    "1": "un GRG/IBC compuesto de un cuerpo de madera, rígido o plegable, con un forro (pero sin recipiente interior) y del equipo de servicio y estructura apropiados.",
     "2": "un GRG/IBC compuesto de un cuerpo de madera y provisto de protección suplementaria contra los choques.",
     "3": "Un recipiente de madera de más de 0,5 m³.",
     "4": "Un recipiente de madera con capas de aglomerado y una capacidad de al menos  0,5 m³.",
     "identifier": "4470",
-    "question": "con un forro (pero sin recipiente interior) y del equipo de servicio y estructura apropiados.",
+    "question": "¿Qué se entiende por GRG/IBC de madera?",
     "answer": "1",
     "norma": "ADR 1.2.1 Letra G"
   },
@@ -55441,11 +55441,11 @@
   },
   {
     "1": "Un GRG/IBC compuesto de bastidor con recubrimiento de enrejado metálico.",
-    "2": "Un GRG/IBC compuesto de un cuerpo de plástico rígido provisto de una",
+    "2": "Un GRG/IBC compuesto de un cuerpo de plástico rígido provisto de una protección contra los choques.",
     "3": "Un GRG/IBC compuesto de un cuerpo metálico y del equipo de servicio y estructura apropiados.",
     "4": "Un GRG/IBC  flexible compuesto de un cuerpo metálico y del equipo de servicio y estructura apropiados.",
     "identifier": "4492",
-    "question": "protección contra los choques.",
+    "question": "¿Qué se entiende por GRG/IBC metálico?",
     "answer": "3",
     "norma": "ADR 1.2.1 Letra G"
   },
@@ -56070,102 +56070,102 @@
     "norma": "ADR 6.1.2.7"
   },
   {
-    "1": "Se aplicarán",
-    "2": "Se aplicarán",
-    "3": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 2.000 kg.",
+    "2": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
     "4": "Se aplicarán a los vehículos que transportan estas mercancías independientemente de la cantidad transportada.",
     "identifier": "4555",
-    "question": "cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S14?",
     "answer": "4",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
     "2": "Se aplicarán a los vehículos que transportan estas mercancías independientemente de la cantidad transportada.",
-    "3": "Se aplicarán",
-    "4": "Se aplicarán",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "4": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
     "identifier": "4556",
-    "question": "cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S24?",
     "answer": "1",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
-    "2": "Se aplicarán",
-    "3": "Se aplicarán",
-    "4": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "2": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 2.000 kg.",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
+    "4": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
     "identifier": "4557",
-    "question": "cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S16?",
     "answer": "3",
     "norma": "ADR 8.5"
   },
   {
     "1": "Se aplicarán a los vehículos que transportan estas mercancías independientemente de la cantidad transportada.",
-    "2": "Se aplicarán",
-    "3": "Se aplicarán",
-    "4": "Se aplicarán",
+    "2": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "3": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
+    "4": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
     "identifier": "4558",
-    "question": "cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S17?",
     "answer": "2",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
-    "2": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "2": "Se aplicarán cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
     "3": "Se aplicarán a los vehículos que transportan estas mercancías independientemente de la cantidad transportada.",
-    "4": "Se aplicarán",
+    "4": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 2.000 kg.",
     "identifier": "4559",
-    "question": "cuando la masa total de esta mercancía en el vehículo exceda de 2.000 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S18?",
     "answer": "4",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
-    "2": "Se aplicarán",
-    "3": "Se aplicarán",
-    "4": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "2": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "4": "Se aplicarán cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
     "identifier": "4560",
-    "question": "cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S19?",
     "answer": "1",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa o el volumen total de esta mercancía en el vehículo exceda de 10.000 kg.",
     "2": "Se aplicarán cuando se transporte 3.000 litros en cisternas.",
-    "3": "Se aplicarán",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
     "4": "A y B son ciertas.",
     "identifier": "4561",
-    "question": "cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S20?",
     "answer": "4",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
-    "2": "Se aplicarán",
-    "3": "Se aplicarán a",
-    "4": "Se aplicarán",
+    "1": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 1.000 kg.",
+    "2": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
+    "3": "Se aplicarán a todas las materias, cualquiera que sea la masa",
+    "4": "Se aplicarán cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
     "identifier": "4562",
-    "question": "cuando la masa total de esta mercancía en el vehículo sobrepase 500 kg.",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S21?",
     "answer": "3",
     "norma": "ADR 8.5"
   },
   {
     "1": "Se aplicarán cuando se transporte 3.000 litros en cisternas.",
-    "2": "se aplicarán",
-    "3": "Se aplicarán a",
+    "2": "se aplicarán cuando la masa o volumen total de estas mercancías en el vehículo exceda los 5.000 kg.",
+    "3": "Se aplicarán a todas las materias, cualquiera que sea la masa",
     "4": "A y B son ciertas.",
     "identifier": "4563",
-    "question": "todas las materias, cualquiera que sea la masa",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S22?",
     "answer": "4",
     "norma": "ADR 8.5"
   },
   {
-    "1": "Se aplicarán",
-    "2": "se aplicarán",
-    "3": "Se aplicarán",
-    "4": "Se aplicarán a",
+    "1": "Se aplicarán cuando la masa total de estas mercancías en el vehículo exceda los 100 kg.",
+    "2": "se aplicarán cuando esta mercancía se transporte a granel o en cisternas y la masa o el volumen total en el vehículo exceda los 3.000 kg o 3.000 litros,",
+    "3": "Se aplicarán cuando la masa total de esta mercancía en el vehículo exceda de 5.000 kg.",
+    "4": "Se aplicarán a todas las materias, cualquiera que sea la masa",
     "identifier": "4564",
-    "question": "todas las materias, cualquiera que sea la masa",
+    "question": "En relación a las disposiciones relativas a la vigilancia de los vehículos ¿qué establece S23?",
     "answer": "2",
     "norma": "ADR 8.5"
   },
@@ -56180,12 +56180,12 @@
     "norma": "ADR 1.2.1 Letra C"
   },
   {
-    "1": "Todo cargamento proveniente de un solo expedidor a quien queda",
-    "2": "Un gran contenedor y para quién se",
+    "1": "Todo cargamento proveniente de un solo expedidor a quien queda reservado el empleo exclusivo de un vehículo.",
+    "2": "Un gran contenedor y para quién se efectúan todas las operaciones de carga y descarga, conforme a las instrucciones del expedidor o del destinatario;",
     "3": "Todo cargamento proveniente de varios expedidores.",
     "4": "A y B son ciertas.",
     "identifier": "4566",
-    "question": "expedidor o del destinatario;",
+    "question": "¿Qué es cargamento completo definida en el ADR?",
     "answer": "4",
     "norma": "ADR 1.2.1 Letra C"
   },
@@ -56201,11 +56201,11 @@
   },
   {
     "1": "Un embalaje especial que está diseñado para su manipulación mecánica",
-    "2": "Excede de 400 kg de masa neta o de 450 litros de capacidad, pero cuyo volumen no",
-    "3": "Se utiliza cuando los bultos de mercancías peligrosas dañados, defectuosos o que tengan fugas, o de",
+    "2": "Excede de 400 kg de masa neta o de 450 litros de capacidad, pero cuyo volumen no supera los 3 m³.",
+    "3": "Se utiliza cuando los bultos de mercancías peligrosas dañados, defectuosos o que tengan fugas, o de mercancías peligrosas que se hayan vertido o derramado.",
     "4": "Todas son ciertas.",
     "identifier": "4568",
-    "question": "mercancías peligrosas que se hayan vertido o derramado.",
+    "question": "¿A qué se denomina Gran embalaje de socorro\",?",
     "answer": "4",
     "norma": "ADR 1.2.1 Letra G"
   },
